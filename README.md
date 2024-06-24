@@ -5,3 +5,6 @@ This project is done on a single colab notebook, which includes:-
 2. Data preprocessing
 3. Model training
 4. Inference through user input
+
+
+N.B. - data source https://huggingface.co/datasets/Kaludi/Customer-Support-Responses
